@@ -1,0 +1,9 @@
+a:hover {
+	font-size: 20px;
+	font-weight: bold;
+	color: blue;
+	transition: transform 2s;
+}
+.center {
+	text-align: center
+}
