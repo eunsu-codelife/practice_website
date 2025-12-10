@@ -8,5 +8,8 @@ a:hover {
 	text-align: center
 }
 .left {
-	ma
+	margin-left: 30px;
+}
+.right {
+	margin-right: 30px;
 }
